@@ -1,9 +1,9 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  site_name: 'Carbon Wheel Finder',
+  title: 'Carbon Wheel Finder',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
-  url: 'https://example.com',
+    'Finding your next set of Carbon bike wheels should be easy',
+  url: 'https://carbonwheelfinder.com',
   locale: 'en',
   author: 'Anonymous',
   pagination_size: 5,
